@@ -59,18 +59,18 @@ global.ppulsa2 = '083813417529 [Axis]'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283112471048'
-global.nomorown = '6282146218274'
-global.namebot = '𝗥𝗜𝗘𝗟𝗕𝗢𝗧𝗭-𝗠𝗱'
+global.nomorbot = '6282116485390'
+global.nomorown = '6281252232882'
+global.namebot = '𝐋𝐞𝐦𝐨𝐧𝐁𝐨𝐭𝐳-𝗠𝗱'
 global.nameown = 'OWNER RIELBOTZ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282146218274'],
-  ['6282146218274'],
-  ['6282146218274'],
-  ['6282146218274', 'OWNER RIELBOTZ', true]
+  ['6281252232882'],
+  ['6281252232882'],
+  ['6281252232882'],
+  ['6281252232882', 'OWNER LEMONBOTZ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝑹𝑰𝑬𝑳𝑩𝑶𝑻𝒁-𝑴𝒅 あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑹𝒊𝒆𝒍 - 𝑶𝒇𝒄˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ʀɪᴇʟ ᴏғᴄ'
+global.wm = '                「 𝑳𝑬𝑴𝑶𝑵𝑩𝑶𝑻𝒁-𝑴𝒅 あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑳𝒆𝒎𝒐𝒏 - 𝑶𝒇𝒄˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ʟᴇᴍᴏɴ ᴏғᴄ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
@@ -174,7 +174,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `RIELBOTZ @2022 ⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `ʟᴇᴍᴏɴʙᴏᴛᴢ @2022 ⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
